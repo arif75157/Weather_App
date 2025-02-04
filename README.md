@@ -14,9 +14,10 @@ What’s cool about it:
 
 -Efficient API Calls: Fetches weather data smoothly without slowing down the app.
 
+
 🌦 **Check out the live Weather Report Dashboard!**  
 
 Want to see how the weather looks in real-time? Click the link below to try it out and check the current weather for any city, right at your fingertips!
 
-[Click here to view the Weather Dashboard](#)
+[Click here to view the Weather Dashboard](https://weather-app-api-dashboard.netlify.app/)
 
