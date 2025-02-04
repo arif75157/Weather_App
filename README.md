@@ -15,9 +15,10 @@ What’s cool about it:
 -Efficient API Calls: Fetches weather data smoothly without slowing down the app.
 
 
-### Weather Dashboard Preview
 
-![Weather Dashboard](preview.png)
+### Weather App Preview
+
+<img src="Preview.png" alt="Weather App" width="400"/>
 
 
 
