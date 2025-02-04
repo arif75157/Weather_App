@@ -17,7 +17,7 @@ What’s cool about it:
 
 ### Weather Dashboard Preview
 
-![Weather Dashboard](weather-dashboard.png)
+![Weather Dashboard](preview.png)
 
 
 
