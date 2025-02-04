@@ -18,7 +18,7 @@ What’s cool about it:
 
 ### Weather App Preview
 
-<img src="Preview.png" alt="Weather App" width="400"/>
+<img src="preview.png" alt="Weather App" width="300"/>
 
 
 
