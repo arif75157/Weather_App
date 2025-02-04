@@ -4,6 +4,7 @@ This is a simple, user-friendly weather dashboard that shows real-time weather u
 
 What’s cool about it:
 -Real-Time Weather: Enter any city, and you’ll get up-to-date weather information.
+
 -Dynamic Updates: The weather details change automatically based on what the API sends back.
 -Error Handling: If you type in an invalid city, it’ll let you know with a helpful message.
 -Responsive Design: Looks great on both desktop and mobile, so you can check the weather anywhere.
